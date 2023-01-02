@@ -1,2 +1,2 @@
-# Studing-MySql
-Data Science Academy - SQL para Análise de Dados
+# studying-MySql
+Curso Data Science Academy - SQL para Análise de Dados

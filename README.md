@@ -1,4 +1,4 @@
-# Portfolio SQL
+# SQL Portifólio
 Este portifólio destina-se a fins de aprendizado e demonstra minha experiência em SQL.
 
 ## Conteúdo
